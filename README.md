@@ -1,0 +1,1 @@
+Created an interactive POWER BI dashboard using various visualizations to analyze the data and provide the business users with these in sights which they can use to make informed decisions and strategize on how to improve customer retention and reduce churn rate.
